@@ -1,0 +1,10 @@
+#
+# I2C subsystem configuration
+#
+
+
+config GLOBALMEM
+	tristate "globalmem support"
+	---help---
+		globalmem	  
+
